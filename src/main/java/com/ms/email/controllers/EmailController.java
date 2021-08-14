@@ -1,6 +1,6 @@
 package com.ms.email.controllers;
 
-import com.ms.email.dtos.EmailDto;
+import com.ms.email.models.dtos.EmailDto;
 import com.ms.email.models.EmailModel;
 import com.ms.email.services.EmailService;
 import org.springframework.beans.BeanUtils;
